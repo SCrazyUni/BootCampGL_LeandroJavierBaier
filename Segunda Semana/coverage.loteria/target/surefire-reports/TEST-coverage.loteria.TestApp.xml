@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="coverage.loteria.TestApp" time="1.709" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="F:\GLBootCamp2020\repo\BootCampGL_LeandroJavierBaier\Segunda Semana\coverage.loteria\target\test-classes;F:\GLBootCamp2020\repo\BootCampGL_LeandroJavierBaier\Segunda Semana\coverage.loteria\target\classes;C:\Users\SCrazy\.m2\repository\org\slf4j\slf4j-simple\1.7.30\slf4j-simple-1.7.30.jar;C:\Users\SCrazy\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\SCrazy\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.2\junit-jupiter-engine-5.6.2.jar;C:\Users\SCrazy\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\SCrazy\.m2\repository\org\junit\platform\junit-platform-engine\1.6.2\junit-platform-engine-1.6.2.jar;C:\Users\SCrazy\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\SCrazy\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;C:\Users\SCrazy\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azulsystems.com/"/>
+    <property name="user.timezone" value="America/Buenos_Aires"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="AR"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="F:\GLBootCamp2020\app\java\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\SCrazy\AppData\Local\Temp\surefire123744390365194519\surefirebooter4023636585821829006.jar C:\Users\SCrazy\AppData\Local\Temp\surefire123744390365194519 2020-07-31T11-13-11_540-jvmRun1 surefire221062355426251598tmp surefire_06749543762854190253tmp"/>
+    <property name="surefire.test.class.path" value="F:\GLBootCamp2020\repo\BootCampGL_LeandroJavierBaier\Segunda Semana\coverage.loteria\target\test-classes;F:\GLBootCamp2020\repo\BootCampGL_LeandroJavierBaier\Segunda Semana\coverage.loteria\target\classes;C:\Users\SCrazy\.m2\repository\org\slf4j\slf4j-simple\1.7.30\slf4j-simple-1.7.30.jar;C:\Users\SCrazy\.m2\repository\org\slf4j\slf4j-api\1.7.30\slf4j-api-1.7.30.jar;C:\Users\SCrazy\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.2\junit-jupiter-engine-5.6.2.jar;C:\Users\SCrazy\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\SCrazy\.m2\repository\org\junit\platform\junit-platform-engine\1.6.2\junit-platform-engine-1.6.2.jar;C:\Users\SCrazy\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\SCrazy\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;C:\Users\SCrazy\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\SCrazy"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="F:\GLBootCamp2020\app\java\jre"/>
+    <property name="basedir" value="F:\GLBootCamp2020\repo\BootCampGL_LeandroJavierBaier\Segunda Semana\coverage.loteria"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="jdk.vendor.version" value="Zulu 8.48.0.51-CA-win64"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\SCrazy\AppData\Local\Temp\surefire123744390365194519\surefirebooter4023636585821829006.jar;C:\\Users\\SCrazy\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.7.7.201606060606\\org.jacoco.agent-0.7.7.201606060606-runtime.jar"/>
+    <property name="sun.boot.class.path" value="F:\GLBootCamp2020\app\java\jre\lib\resources.jar;F:\GLBootCamp2020\app\java\jre\lib\rt.jar;F:\GLBootCamp2020\app\java\jre\lib\sunrsasign.jar;F:\GLBootCamp2020\app\java\jre\lib\jsse.jar;F:\GLBootCamp2020\app\java\jre\lib\jce.jar;F:\GLBootCamp2020\app\java\jre\lib\charsets.jar;F:\GLBootCamp2020\app\java\jre\lib\jfr.jar;F:\GLBootCamp2020\app\java\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_262-b19"/>
+    <property name="user.name" value="SCrazy"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="F:\GLBootCamp2020\app\java\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\SCrazy\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azulsystems.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\SCrazy\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_262"/>
+    <property name="user.dir" value="F:\GLBootCamp2020\repo\BootCampGL_LeandroJavierBaier\Segunda Semana\coverage.loteria"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="F:\GLBootCamp2020\app\java\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\SCrazy\bin;F:\GLBootCamp2020\Git\mingw64\bin;F:\GLBootCamp2020\Git\usr\local\bin;F:\GLBootCamp2020\Git\usr\bin;F:\GLBootCamp2020\Git\usr\bin;F:\GLBootCamp2020\Git\mingw64\bin;F:\GLBootCamp2020\Git\usr\bin;C:\Users\SCrazy\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;F:\GLBootCamp2020\Git\cmd;C:\Users\SCrazy\AppData\Local\Microsoft\WindowsApps;F:\GLBootCamp2020\app\java\bin;F:\GLBootCamp2020\app\apache-maven-3.6.3\bin;F:\GLBootCamp2020\Git\usr\bin\vendor_perl;F:\GLBootCamp2020\Git\usr\bin\core_perl;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="25.262-b19"/>
+    <property name="java.ext.dirs" value="F:\GLBootCamp2020\app\java\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="test" classname="coverage.loteria.TestApp" time="1.69"/>
+</testsuite>
