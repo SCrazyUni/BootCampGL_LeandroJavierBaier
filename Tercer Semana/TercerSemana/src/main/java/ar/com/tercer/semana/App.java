@@ -8,6 +8,16 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        ElectricalOven electrical = new ElectricalOven();
+        
+        System.out.println("Power: " + electrical.getPower());
+        
+        electrical.turnOn();
+        
+        System.out.println("Power: " + electrical.getPower());
+        
+        electrical.turnLed();
+        
+        System.out.println("Power; " + electrical.getPower());
     }
 }
