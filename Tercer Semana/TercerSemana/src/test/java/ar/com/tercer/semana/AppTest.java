@@ -2,9 +2,11 @@ package ar.com.tercer.semana;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import java.io.Serializable;
+
 import org.junit.Test;
 
-public class AppTest {
+public class AppTest implements Serializable{
 
 	@Test
 	public void test() {
